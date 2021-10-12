@@ -1,4 +1,4 @@
-CMakeLists.txt.user
+MakeLists.txt.user
 Examples/Monocular/mono_euroc
 Examples/Monocular/mono_kitti
 Examples/Monocular/mono_tum
@@ -21,4 +21,6 @@ Vocabulary/ORBvoc.txt
 build/
 *~
 lib/
+Examples/RGB-D/current
+Examples/RGB-D/saved_trajectory
 
